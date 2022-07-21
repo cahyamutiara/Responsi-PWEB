@@ -1,0 +1,2 @@
+NAMA, ALAMAT, JARAK, HARGA
+Cahya, Banguntapan, 10, 50000
